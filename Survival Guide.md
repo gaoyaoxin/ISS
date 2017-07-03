@@ -8,13 +8,13 @@
 ### There are two machines at the card service center. Use 100-RMB-notes for charging. Follow the specific steps below.
 1. Put your card on the machine.
 2. Change the language into English.
-[](/iss/1.jpg)
+![](/iss/1.jpg)
 3. Choose "Recharge in Cash".
-[](/iss/2.jpg)
+![](/iss/2.jpg)
 4. Point "Next".
-[](/iss/3.jpg)
+![](/iss/3.jpg)
 5. Put 100-RMB-notes one by one into the slit.
-[](/iss/4.jpg)
+![](/iss/4.jpg)
 6. Remember to take your card back with you.
 
 ## How can I get access to campus Wifi(east and west) ?
@@ -22,9 +22,9 @@
 1. Put your card on the machine.
 2. Change the language into English.
 3. Choose "Net-fee Recharge".
-[](/iss/11.jpg)
+![](/iss/11.jpg)
 4. Input "60" in the inputbox of "Recharge Amount" and your card password (last 6 digits of your passport as default. Change it using the same machine.)
-[](/iss/22.jpg)
+![](/iss/22.jpg)
 5. Press the "OK" button.
 6. Remember to take your card back with you.
 
